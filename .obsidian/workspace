@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPCs/Xandala.md",
+            "file": "Locations/Port Nyanzaru.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Xandala.md",
+                "file": "Locations/Port Nyanzaru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +89,14 @@
   },
   "active": "9daa8bdda77fddee",
   "lastOpenFiles": [
+    "Locations/Port Nyanzaru.md",
+    "PCs/Brysh.md",
+    "PCs/Lock Handcock.md",
+    "PCs/Cotton.md",
     "NPCs/Xandala.md",
     "Session Notes/Session 1.md",
-    "Locations/Port Nyanzaru.md",
     "Locations/Waterdeep.md",
     "Locations/Untitled.md",
-    "PCs/Brysh.md",
     "README.md"
   ]
 }
