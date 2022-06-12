@@ -3,7 +3,7 @@
 
 
 ### Full Character Background
-***PLEASE DO NOT READ IF YOU ARE A PLAYER***
+`***PLEASE DO NOT READ IF YOU ARE A PLAYER***`
 
 Brysh is a verdan. She is one of the first verdan in the world, her first memory is waking up in the darkness of the underdark. She could not see, it was cold, she could hear people in fear around her. Then she ran, eventually finding herself out of the underdark and into a band of merchants. They took her in and taught her the value of money and the power that came with it. She travelled over land and water with them for many years. Eventually, Brysh wanted something more than the same routes and good they sold, she wanted more. After failing to convince the leaders of the caravan to go beyond and do more, she struck out on her own. On some travels, she found an urn and opened it out of curiosity. Out came what seemed like an ocean in a storm. A violent mass of water and energy that eventually formed into a creature with rage in its eyes. Not being one to shy away from an opportunity (and not wanting to die). Brysh introduced herself and with her well honed persuasion skills and luck she not only lived, but struck a bargain with this genie. It would give her greater power and continue to do so, as long as she took advantage of her skills to spread cursed items through the word that dared to capture them. 
 
