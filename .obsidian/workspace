@@ -7,12 +7,8 @@
         "id": "9daa8bdda77fddee",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Locations/Port Nyanzaru.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Port Nyanzaru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
