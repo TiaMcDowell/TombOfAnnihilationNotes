@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/index.md",
+            "file": "docs/PCs/Brysh.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/PCs/Brysh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "9daa8bdda77fddee",
   "lastOpenFiles": [
+    "docs/PCs/Brysh.md",
     "docs/index.md",
     "Locations/Port Nyanzaru.md",
     "PCs/Brysh.md",
@@ -97,7 +98,6 @@
     "NPCs/Xandala.md",
     "Session Notes/Session 1.md",
     "Locations/Waterdeep.md",
-    "Locations/Untitled.md",
-    "README.md"
+    "Locations/Untitled.md"
   ]
 }
