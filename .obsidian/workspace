@@ -7,8 +7,12 @@
         "id": "9daa8bdda77fddee",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "docs/index.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,7 @@
   },
   "active": "9daa8bdda77fddee",
   "lastOpenFiles": [
+    "docs/index.md",
     "Locations/Port Nyanzaru.md",
     "PCs/Brysh.md",
     "PCs/Lock Handcock.md",
