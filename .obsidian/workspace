@@ -7,8 +7,10 @@
         "id": "9daa8bdda77fddee",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "image",
+          "state": {
+            "file": "docs/token_1 (1).png"
+          }
         }
       }
     ],
@@ -65,6 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/token_1 (1).png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,14 +87,15 @@
   },
   "active": "9daa8bdda77fddee",
   "lastOpenFiles": [
-    "Locations/Port Nyanzaru.md",
-    "PCs/Brysh.md",
-    "PCs/Lock Handcock.md",
-    "PCs/Cotton.md",
-    "NPCs/Xandala.md",
-    "Session Notes/Session 1.md",
-    "Locations/Waterdeep.md",
-    "Locations/Untitled.md",
-    "README.md"
+    "docs/token_1 (1).png",
+    "docs/assets/img/Professor-Hancock.png",
+    "docs/Quests/The Dragon.md",
+    "docs/Locations/Port Nyanzaru.md",
+    "docs/Locations/Waterdeep.md",
+    "docs/Locations/The Lost City of Mezero.md",
+    "docs/PCs/Locke Handcock.md",
+    "docs/PCs/Brysh.md",
+    "docs/PCs/Cotton.md",
+    "docs/NPCs/Xandala.md"
   ]
 }

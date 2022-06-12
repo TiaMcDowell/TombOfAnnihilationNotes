@@ -1,6 +1,6 @@
-site_name: your_site_name
-site_description: A cool description
-site_url: https://mara-li.github.io/obsidian-mkdocs-publisher-template/
+site_name: Tomb of Annihilation Notes
+site_description: Tomb of Annihilation Notes
+site_url: https://tiamcdowell.github.io/TombOfAnnihilationNotes/
 
 theme:
     name: 'material'
