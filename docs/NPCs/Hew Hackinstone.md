@@ -1,0 +1,1 @@
+Dwarf, one of the quest givers on [[Clear Wyrmheart Mine]] quest. Friend of [[Musharib]]
