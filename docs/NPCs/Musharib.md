@@ -1,0 +1,1 @@
+The other drawrf quest giver of [[Clear Wyrmheart Mine]] quest
