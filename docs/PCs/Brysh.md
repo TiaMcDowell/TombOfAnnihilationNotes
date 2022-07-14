@@ -12,4 +12,3 @@ On her travels she arrived in Thay where she met an exporter of cursed magic ite
 
 Later on her travels she ended up in [[Waterdeep]] where she met Obaya Uday, an envoy of the Merchant prince Wakanga O'Tamu: one of the 7 aristocrats that rules the wealthy city state of Port Nyanzaru, and the Merchant Prince responsible for regulating the sales of magic items, spells, potions, and lore. Wakanga is something of a collector of odd magical trinkets, and Obaya said he may be interested in the wares she was selling. He is also always looking for people who can negotiate on his behalf and who have connections with those who can procure interesting magic items. To Obaya, hiring her was a no-brainer. Brysh departed for Port Nyanzaru at dawn, and was given a sealed letter of recommendation that Obaya says guarantees her a new job.</p>
 </details>
-

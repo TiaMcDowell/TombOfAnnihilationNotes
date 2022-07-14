@@ -1,12 +1,12 @@
-half Ork cleric [[Undril Silvertusk]] wants to go to [[Camp Vengeance]], angry that she cannot get a horse and rent.
-- flaming fist having undead problems
-- Decide to go to camp vengance to help her
+A half Ork cleric [[Undril Silvertusk]] wants to go to [[Camp Vengeance]] to aid in their undead threat, but she clearly misunderstoof Chult. She tried to buy a horse, but eventually decided to meet the party in [[The Thundering Lizard]].
+- [[The Flaming Fist]] is having undead problems
+- We decided to go to [[Camp Vengeance]] to help her
 
 Go to old city to view the exacution race
 While the race is happening, 2 civilians fall in and get killed
-[[Ortimay Swift and Dark]] escapes with another bandit
+[[Ortimay Swift and Dark]] escapes with another bandit, but the civilians and the other prisoner die.
 [[Brysh]] talked to [[Prince Wakanga O'Tamu]] and got a meeting for two hours after
-go to [[Thundering Lizard]] to talk to [[Undril Silvertusk]]
+go to [[The Thundering Lizard]] to talk to [[Undril Silvertusk]].
 
 [[Brysh]] talked to [[Prince Wakanga O'Tamu]]. He baught all of her goods and gave her 3 quests:
 - [[Find Ozymandius and his Expedition]]
