@@ -1,3 +1,4 @@
+# Session 02
 Open in the tavern in [[Port Nyanzaru]], level 2
 - met [[Volothamp Geddarm aka Volo]], [[Brysh]] bought volos guide to monsters
 - met the barmaid [[Azaka Stormfang]], had her family and clan wiped out by the pterafolk nest(ptaradactal and human) offers 15gp to get rid of the terrafolk Quest: [[Recover the Mask of the Beast]]
@@ -15,7 +16,7 @@ Open in the tavern in [[Port Nyanzaru]], level 2
 - in the market [[Xandala Cimber]]s staff abjeration and evokation and BIG conjouation
 - went to the killing race location, decided that saving [[Ortimay Swift and Dark]] is too riskey
 - [[Find the Origin of the Death Curse]] - rivivify and raise dead are inconsistant, is a huge hit to diamond market, the colimsuim, and dino riders
-- [[Zentar]] - bad assesonation group 
+- [[zhentarim]] - bad assesonation group 
 	- [[Locke Handcock]] convinced the barkeep that we are part of the group
 - found a priest [[Grandfather Zitembe]], tried to divine where [[Artus Cimber]] is, he was shielded from divination
 	- [[Locke Handcock]] shared that he knew [[Artus Cimber]], now [[Grandfather Zitembe]] doesn't like us
