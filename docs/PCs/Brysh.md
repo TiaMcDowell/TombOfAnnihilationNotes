@@ -1,14 +1,3 @@
-### Party known information
-![[token_1 (1).png]]Brysh is a small green half elf looking creature with emerald green skin. She is friendly and cheerful. She carries with her a small porcelain urn etched with golden details. Furthermore, she is able to disappear into this urn and store various items in it.  
-
-
-### Full Character Background
-`***PLEASE DO NOT READ IF YOU ARE A PLAYER***`
-<details>
-  <summary>### Full Character Background</summary>
-  <p>Brysh is a verdan. She is one of the first verdan in the world, her first memory is waking up in the darkness of the underdark. She could not see, it was cold, she could hear people in fear around her. Then she ran, eventually finding herself out of the underdark and into a band of merchants. They took her in and taught her the value of money and the power that came with it. She travelled over land and water with them for many years. Eventually, Brysh wanted something more than the same routes and good they sold, she wanted more. After failing to convince the leaders of the caravan to go beyond and do more, she struck out on her own. On some travels, she found an urn and opened it out of curiosity. Out came what seemed like an ocean in a storm. A violent mass of water and energy that eventually formed into a creature with rage in its eyes. Not being one to shy away from an opportunity (and not wanting to die). Brysh introduced herself and with her well honed persuasion skills and luck she not only lived, but struck a bargain with this genie. It would give her greater power and continue to do so, as long as she took advantage of her skills to spread cursed items through the word that dared to capture them. 
-
-On her travels she arrived in Thay where she met an exporter of cursed magic items. 
-
-Later on her travels she ended up in [[Waterdeep]] where she met Obaya Uday, an envoy of the Merchant prince Wakanga O'Tamu: one of the 7 aristocrats that rules the wealthy city state of Port Nyanzaru, and the Merchant Prince responsible for regulating the sales of magic items, spells, potions, and lore. Wakanga is something of a collector of odd magical trinkets, and Obaya said he may be interested in the wares she was selling. He is also always looking for people who can negotiate on his behalf and who have connections with those who can procure interesting magic items. To Obaya, hiring her was a no-brainer. Brysh departed for Port Nyanzaru at dawn, and was given a sealed letter of recommendation that Obaya says guarantees her a new job.</p>
-</details>
+# Brysh
+![[token_1 (1).png]]
+Brysh is a small half elf looking creature with emerald green skin. She is friendly and cheerful. She carries with her a small porcelain urn etched with golden details. Furthermore, she is able to disappear into this urn and store various items in it.  

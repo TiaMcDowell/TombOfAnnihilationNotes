@@ -1,3 +1,4 @@
+# Session 03
 A half Ork cleric [[Undril Silvertusk]] wants to go to [[Camp Vengeance]] to aid in their undead threat, but she clearly misunderstoof Chult. She tried to buy a horse, but eventually decided to meet the party in [[The Thundering Lizard]].
 - [[The Flaming Fist]] is having undead problems
 - We decided to go to [[Camp Vengeance]] to help her

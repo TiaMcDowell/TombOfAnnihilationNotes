@@ -1,3 +1,4 @@
+# Session 01
 - Begins with party on a ship on the way to [[Port Nyanzaru]]
 - Gnome Captain(She/Her)
 	- Didnt catch her name lol
