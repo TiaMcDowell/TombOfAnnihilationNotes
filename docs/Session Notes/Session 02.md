@@ -16,7 +16,7 @@ Open in the tavern in [[Port Nyanzaru]], level 2
 - in the market [[Xandala Cimber]]s staff abjeration and evokation and BIG conjouation
 - went to the killing race location, decided that saving [[Ortimay Swift and Dark]] is too riskey
 - [[Find the Origin of the Death Curse]] - rivivify and raise dead are inconsistant, is a huge hit to diamond market, the colimsuim, and dino riders
-- [[zhentarim]] - bad assesonation group 
+- [[Zhentarim]] - bad assesonation group 
 	- [[Locke Handcock]] convinced the barkeep that we are part of the group
 - found a priest [[Grandfather Zitembe]], tried to divine where [[Artus Cimber]] is, he was shielded from divination
 	- [[Locke Handcock]] shared that he knew [[Artus Cimber]], now [[Grandfather Zitembe]] doesn't like us
