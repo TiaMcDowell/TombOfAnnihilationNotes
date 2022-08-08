@@ -1,0 +1,23 @@
+# Session 04
+- Party starts at level 3
+- [[Brysh]] gives [[Xandala Cimber]] a loan of 11sp for adventure gear
+- ran into 
+- Met a young stegosaurus and cotton talked to him and got him to leave and not tell his mom where we are
+- [[Aarakocra]], flaming fist clear-cutting, they believe that [[The Flaming Fist]] deserve they deserve it
+- [[Camp Righteous]] destroyed, in front of the statue of crocodile and man from [[Explore the Statue of Man and Crocodile]]
+- [[Kir Sabel]], where [[Aarakocra]] are from, cotton is friendly there
+- legend of ___ spirit of the jungle, represent the will of the jungle, sees through the jungle. Need to say prayers after killing animals in the jungle or will anger it. Man and crocodile is a statue of the creature
+- legend of man and crocodile, 
+	- crocodile helps man cross river
+	- crocodile is carried across human settlement
+	- human and crocodile not friends
+- really hard [[Goblins]] battle
+	- 6 short bows 19 arrows 
+	- 8 scimitar
+	- 11 sets of leather armor for a small creature
+	- Various trinkets made of bones 
+	- 1 chain shirt made of Dino scale
+	- masks
+- [[Hew Hackinstone]], [[Musharib]], and [[Cotton]] get a short bow and 6 arrows
+- [[Locke Handcock]] got a scimitar
+- 7 pbs of food total. Enough for whole party, didn't need to have rations
