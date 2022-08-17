@@ -1,3 +1,3 @@
 # Ash
 ![[Ash.png]]
-Cleric, but looks more like an adventurer
+Cleric, but looks more like an adventurer.
