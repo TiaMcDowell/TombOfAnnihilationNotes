@@ -10,7 +10,7 @@ At the center of the camp was a large status of [[Man and Crocodile]]. Inside we
 - A 20ft pit trap activated by a creature standing on it.
 - Magic blades which appear when a creature is not carrying another creature.
 - Up a 7ft wall there's a 4x4 grid of squares. Stepping on the wrong squares causes fire to spew out.
-- Up another 7ft wall was a door with a glyph of warding. Two creatures must push on it to open it.
+- Up another 7ft wall was a door with a glyph of warding. On the door was the solution to the previous puzzle, and when two people pushed the four glowing squares, the door opened.
 - Inside the door was a room with a circular starecase. Different stairs also had glyphs of warding on them, but we marked them with chalk. Atop was a statue of a woman who wore a magical item: a veil of shadows. [[Locke Handcock]] grabbed the veil, but that caused rocks to fall in the room and forced the party to escape the temple.
 
 Eventually, the party escaped, but at heavy cost. Nearly everyone was hurt, loads of spell slots were used, and four party members fell unconcious.
