@@ -3,6 +3,5 @@ An organization of spies that tries to do good in the world, (with emphasis on "
 
 ## Known Members
 - [[Artus Cimber]]
-- [[Ash]]
 - [[Sylvos]]
 - [[Yosei]]
