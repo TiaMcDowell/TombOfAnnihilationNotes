@@ -10,3 +10,5 @@
 - Tie dead bodies to the trees and slather them in honey
 - They'll jump atop each other to make a goblin stack
 - The boss is know to use other goblins as shields
+- Not interested in bug repellent
+- Worship clockwork gollum?
