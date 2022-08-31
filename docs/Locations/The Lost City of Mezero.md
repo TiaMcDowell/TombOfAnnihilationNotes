@@ -3,3 +3,4 @@ Mezro was once an isolated and secretive city state on the East coast of Chult. 
 
 It seems several members of the party are quietly interested in searching for the ruins...
 
+It was destroyed during the second sundering.

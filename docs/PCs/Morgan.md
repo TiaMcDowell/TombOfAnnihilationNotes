@@ -1,8 +1,16 @@
 # Morgan
 ![[Morgan.png]]
-Native of Chult
+Native of Chult. Views Chult as a place full of danger and death, but "excells at making you not die." In fact, she is an undead!
+
+She eats the (cooked) hearts of different creatures.
+
 Wandering around trying to deal with undead
 Celestial-ish in nature
 She/Her
 Pact of the Chain Warlock
+
+## Goal
+- Fix the death curse
+
+## Familiar
 ![[Morgan's Cat.png]]
