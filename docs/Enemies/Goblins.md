@@ -11,4 +11,4 @@
 - They'll jump atop each other to make a goblin stack
 - The boss is know to use other goblins as shields
 - Not interested in bug repellent
-- Worship clockwork gollum?
+- Their holy idol is the clockwork golem
