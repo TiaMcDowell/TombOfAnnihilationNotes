@@ -19,4 +19,4 @@ Party takes a short rest in [[Camp Righteous]]
 - All the tents in [[Camp Righteous]] are empty. It seems [[The Flaming Fist]] deliberately moved out, but left the tents.
 - Around the campfire, members of the party chatted about their various goals and motives for visiting Chult.
 - Before heading to bed, the group decided to name themselves *The Fellowship of the Veil*.
-- [[Xandala Cimber]] then shared her letter from [[Artus Cimber]] with the entire group and discussed the Ring of Winter.
+- [[Xandala Cimber]] then shared her letter from [[Artus Cimber]] with the entire group and discussed the [[Ring of Winter]].
