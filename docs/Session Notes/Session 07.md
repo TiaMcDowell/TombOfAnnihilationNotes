@@ -17,7 +17,7 @@ New Quests from Commander Niles Breakbone
 	- We could interogate them if we want
 - Witch doctor living atom a mesa [[Investigate Mbala]]
 	- West of where river sashinstar meets Aldani basin
-	- Ruined village named Mbala
+	- Ruined village named [[Mbala]]
 	- Spooked local guides and adventurers, but they don't come back right
 	- However her resurection works reliably despite the death curse
 - Saja M'baza [[Seek the Wisdom of the Oracle]]
@@ -25,7 +25,6 @@ New Quests from Commander Niles Breakbone
 	- Spiritual snake whose lived for eons
 	- If you take her trials and pass, she will answer three questions of your choice
 	- On top of a zigorate named Orolunga close to the sourther side of Mist Cliff Mountain.
-
 
 Interrogation of Red Wizards
 Master: Rodvan

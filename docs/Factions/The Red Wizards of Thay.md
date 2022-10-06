@@ -3,7 +3,7 @@
 ## Known Members
 - Researcher Rodvan
 	- Currently captured at Camp Vengance
-- Shadowmantle
+- [[Shadow Mantle]]
 
 
 ## Interrogation of Researcher Rodvan
@@ -23,7 +23,7 @@
 	- To learn more, ask the shadow mantle
 	- Third in line in power in all of Thay
 	- He's on the earth mote floating in the sky
-		- "Heart of Ubtoa"
+		- "Heart of [[Ubtao]]"
 			- 50 ft wide
 			- 200 ft up the ground
 			- Iron core gives the appeance of bleeding roots.
