@@ -4,6 +4,8 @@ Brysh is a small half elf looking creature with emerald green skin. She is frien
 
 She's a merchant whoes spent the past few years buying and selling magic items. She's in search of more magical goods to sell in [[Port Nyanzaru]].
 
+She has been to Thay before as part of a large merchant group...
+
 ## Goal
 - Find more magic items to sell.
 - Return the Clockwork Golem to [[Port Nyanzaru]].
