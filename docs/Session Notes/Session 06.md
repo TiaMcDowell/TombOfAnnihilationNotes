@@ -11,11 +11,11 @@ Party takes a short rest in [[Camp Righteous]]
 	- A bronze statue([[Clockwork Golem]])
 		- The [[Clockwork Golem]] can be controlled by someone on the inside.
 		- It contains various CRT screens, buttons, nobs, and other electronic gismos.
-- While tinkering with the golem, [[Brysh]] continually used telepathy on [[Locke Handcock]] despite him demanding she stop. Finally he snapped, left the golem, and yelled at Brysh.
+- While tinkering with the golem, [[Brysh]] continually used telepathy on [[Locke Hancock]] despite him demanding she stop. Finally he snapped, left the golem, and yelled at Brysh.
 - Lured by Locke's yelling, [[Goblins]] attacked the party
 	- The [[Goblins]] say something about "Holy Idol" and "defend", which implies the golem is a religeous artifact of theirs.
 - [[Morgan]] took a [[Goblins]] heart to eat later.
-- [[Locke Handcock]] shares his background with [[Yosei]]
+- [[Locke Hancock]] shares his background with [[Yosei]]
 - All the tents in [[Camp Righteous]] are empty. It seems [[The Flaming Fist]] deliberately moved out, but left the tents.
 - Around the campfire, members of the party chatted about their various goals and motives for visiting Chult.
 - Before heading to bed, the group decided to name themselves *The Fellowship of the Veil*.

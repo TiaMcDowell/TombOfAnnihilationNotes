@@ -23,7 +23,7 @@
 	- 1 chain shirt made of Dino scale
 	- masks
 - [[Hew Hackinstone]], [[Musharib]], and Cotton get a short bow and 6 arrows
-- [[Locke Handcock]] got a scimitar
+- [[Locke Hancock]] got a scimitar
 - 7 pbs of food total. Enough for whole party, didn't need to have rations
 
 Afterwards we went a little further before camping for the night.
