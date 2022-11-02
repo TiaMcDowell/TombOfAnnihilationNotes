@@ -6,7 +6,7 @@ Learned about the "shivering sickness" caused by the insects of Chult.
 
 [[Ash]] and [[Yosei]] hear a broken branch during their watch. They see a small creature hiding in a tree. It turns out to be the first of a pack of velociraptors that attack the party. 
 
-[[Locke Hancock]] had a flashback and ran from battle.
+[[Locke Hancock]] had a dimentia moment and ran from battle.
 
 [[Brysh]] runs into a stray cobblestone on the path along the way the party is going, [[Locke Hancock]] investigates. The party finds more and more as they walk down the path, making an old paved road.
 
