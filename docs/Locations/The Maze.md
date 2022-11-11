@@ -1,1 +1,1 @@
-Found when searching for the ruined village [[Mbala]] looking for a whitch doctor.
+Found when searching for the ruined village [[Mbala]] looking for a witch doctor.
