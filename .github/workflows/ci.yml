@@ -2,7 +2,6 @@ name: ci
 on:
   push:
     branches:
-      - master 
       - main
 jobs:
   deploy:
@@ -16,5 +15,7 @@ jobs:
         uses: py-actions/py-dependency-install@v3
         with: 
           path: requirements.txt
+        env:
+          AGENT_TOOLSDIRECTORY: /opt/hostedtoolache
       - run: mkdocs gh-deploy --force
 
