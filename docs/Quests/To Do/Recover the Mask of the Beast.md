@@ -1,4 +1,3 @@
-# Recover the Mask of the Beast
 #toDo 
 The cook of the Thundering Lizard,  [[Azaka Stormfang]], once lived in a clan who made their home alongside River Tiryki. Their ancesteral home was raided by Pterafolk (Terrorfolk), scattering the clan. Azaka found safety in [[Port Nyanzaru]], but many of her clan did not.
 

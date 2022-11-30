@@ -1,4 +1,3 @@
-# Investigate Mbala
 #toDo 
 [[The Flaming Fist]] are trying to find where all these blasted undead are coming from and who controls them. 
 

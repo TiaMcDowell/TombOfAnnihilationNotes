@@ -1,5 +1,3 @@
-# Session 05
-
 Arriving in [[Camp Righteous]], the party encountered new allies. Stranded by [[Aremag]] and taking canoes down river, they were seperated from [[Artus Cimber]] and only arrived right before [[Locke Hancock]], [[Brysh]], [[Xandala Cimber]] and folks arrived.
 
 [[Xandala Cimber]] had a bit of a heart to heart with the friends of her father in this new party.

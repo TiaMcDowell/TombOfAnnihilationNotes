@@ -1,4 +1,3 @@
-# Clear Wyrmheart Mine
 #inProgress 
 >Deep within an old dwarven hole lies a young dragon "as red as Asmodeus' asshole". It's hoard contains precious adamantium.
 

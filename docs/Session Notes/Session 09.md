@@ -1,4 +1,3 @@
-# Session 09
 Party starts walking down a path in the forest.
 Learned about the "shivering sickness" caused by the insects of Chult.
 

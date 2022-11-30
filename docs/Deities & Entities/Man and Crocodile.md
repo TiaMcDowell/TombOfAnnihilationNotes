@@ -1,4 +1,4 @@
-# The Spirit of Man and Crocodile
+*"The Spirit of Man and Crocodile"*
 A spirit of the jungle with a statue in [[Camp Righteous]].
 
 > In the early days of the world, Man stood by the banks of a river, frightened. Crocodile raised his head from the water and asked, "What troubles you, cousin Man?"

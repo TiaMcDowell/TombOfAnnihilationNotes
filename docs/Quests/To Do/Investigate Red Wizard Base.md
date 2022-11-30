@@ -1,4 +1,3 @@
-# Investigate Red Wizard Base
 #toDo
 The Flaming Fist is trying to find where all these blasted undead are coming from and who controls them. 
 

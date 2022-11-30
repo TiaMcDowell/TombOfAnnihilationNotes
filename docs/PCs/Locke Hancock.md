@@ -1,4 +1,4 @@
-# Professor Locke Hancock
+*"Professor Locke Hancock"*
 ## 3rd Level Storm Sorcerer
 An older man, Professor Hancock claims to be both an archeologist and a pirate. He's told [[Yosei]] that he's from Sharn in Eberron, but wound up in space after delving too deep on an archeology expedition.
 

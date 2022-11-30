@@ -1,4 +1,3 @@
-# Session 04
 - Party starts at level 3
 - [[Brysh]] gives [[Xandala Cimber]] a loan of 11sp for adventure gear.
 - Met a young stegosaurus and Cotton talked to him and got him to leave and not tell his mom where we are.

@@ -1,2 +1,2 @@
-# Poc Marked Po "The Begger Prince"
+*"The Begger Prince"*
 The boss of [[Ortimay Swift and Dark]]

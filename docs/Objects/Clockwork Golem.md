@@ -1,4 +1,3 @@
-# Clockwork Golem
 Part of [[Recover the Clockwork Golem]]
 Found in [[Session 06]] by [[Camp Righteous]]
 

@@ -1,4 +1,3 @@
-# Goblins
 **Resistances:**
 **Weaknesses:** 
 - AOE Spells
