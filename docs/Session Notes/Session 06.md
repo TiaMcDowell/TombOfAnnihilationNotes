@@ -1,4 +1,3 @@
-# Session 06
 Party takes a short rest in [[Camp Righteous]]
 
 - Party identifies [[Veil of Uluu Thalongh]]

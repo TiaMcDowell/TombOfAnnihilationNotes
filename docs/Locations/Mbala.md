@@ -1,2 +1,0 @@
-# Mbala
-[[Investigate Mbala]]

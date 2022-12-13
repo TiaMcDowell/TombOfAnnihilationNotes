@@ -1,4 +1,3 @@
-# Morgan
 ![[Morgan.png]]
 Native of Chult. Views Chult as a place full of danger and death, but "excells at making you not die." In fact, she is an undead!
 
@@ -14,3 +13,8 @@ Pact of the Chain Warlock
 
 ## Familiar
 ![[Morgan's Cat.png]]
+
+## Notable Actions
+Eats brains of people!
+
+Asked [[Nanny Pu'pu]] about the leaving of the Barrey. Seems to think it's related to the leaving of [[The Lost City of Mezero]] people.

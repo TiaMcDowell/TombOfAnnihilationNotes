@@ -1,4 +1,3 @@
-# Session 08
 [[Yosei]], [[Locke Hancock]], and [[Sylvos]] practice their martial techniques.
 
 [[Morgan]] checked in with the health of the camp, and we ended up leaving [[Musharib]] and [[Hew Hackinstone]] behind.

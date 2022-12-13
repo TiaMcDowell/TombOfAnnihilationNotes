@@ -1,4 +1,3 @@
-# Session 07
 Locke gives some of his foraged food to [[Hew Hackinstone]], [[Musharib]], [[Undril Silvertusk]], [[Xandala Cimber]], and [[Morgan]].
 
 [[Brysh]] identifies any curses on the [[Veil of Uluu Thalongh]]. She can't tell anything exactly, but it seems to be triggered by harming the jungle.
@@ -15,7 +14,7 @@ New Quests from Commander Niles Breakbone
 	- Master and an apprentice
 	- Nervous
 	- We could interogate them if we want
-- Witch doctor living atom a mesa [[Investigate Mbala]]
+- Witch doctor living atom a mesa [[Investigate Witch Doctor of Mbala]]
 	- West of where river sashinstar meets Aldani basin
 	- Ruined village named [[Mbala]]
 	- Spooked local guides and adventurers, but they don't come back right

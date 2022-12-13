@@ -1,5 +1,3 @@
-# Artus Cimber
-
 Letter to [[Xandala Cimber]]
 > Xandala, Valindra
 I'm so sorry. I know I can repeat that a thousand times and it will never be enough. I have failed at everything I've sought to do with my life. I've failed to resist the thrall of the ring, I've failed to protect your mother, and I've failed to be there for both of you when you needed me most. I am a terrible, wretched man and a worse father.

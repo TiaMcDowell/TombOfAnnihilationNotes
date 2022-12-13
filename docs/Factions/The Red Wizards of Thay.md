@@ -1,5 +1,3 @@
-# The Red Wizards of Thay
-
 ## Known Members
 - Researcher Rodvan
 	- Currently captured at Camp Vengance
