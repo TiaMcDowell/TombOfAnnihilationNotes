@@ -13,7 +13,7 @@
 - Thay is a cut throat workplace driven by research.
 - He achieved a rank of researcher, and murder is a good way to promotion
 - You have to be evil to rise the ranks
-- Shadow Mantle and the Thay is looking for an artifact called the soul mongerer.
+- Shadow Mantle and the Thay is looking for an artifact called the [[Soul Mongerer]].
 	- A theoretical necromantic device
 	- Book of vial darkness (Locke has heard about it)
 	- Designed to syphon souls out of the astral sea
