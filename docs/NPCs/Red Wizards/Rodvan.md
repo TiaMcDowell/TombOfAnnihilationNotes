@@ -1,0 +1,1 @@
+Spikey haired Red Wizard with an apprentice. Interrogated and captured at [[Camp Vengeance]], but was let go during [[Session 07]]. Later returned with his apprentice in a [[Clockwork Golem]] at the end of [[Session 13]].

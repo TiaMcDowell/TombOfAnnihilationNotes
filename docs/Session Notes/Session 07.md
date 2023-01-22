@@ -26,6 +26,6 @@ New Quests from Commander Niles Breakbone
 	- On top of a zigorate named Orolunga close to the sourther side of Mist Cliff Mountain.
 
 Interrogation of Red Wizards
-Master: Rodvan
+Master: [[Rodvan]]
 See notes in [[The Red Wizards of Thay]].
 In particular, we learned who [[Shadow Mantle]] is!
