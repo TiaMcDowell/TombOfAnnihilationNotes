@@ -2,9 +2,11 @@
 - Researcher Rodvan
 	- Currently captured at Camp Vengance
 - [[Shadow Mantle]]
+- [[Rodvan]]
+- Brian (Dead)
 
 
-## Interrogation of Researcher Rodvan
+## Interrogation of Researcher [[Rodvan]]
 - He's an evoker
 - He brought his apprentice with him, but he's not that effective yet.
 - Heading to meet the dead Red Wizard Brian at the [[Statue of Man and Crocodile]]
@@ -28,5 +30,5 @@
 	- Shadow mantle is a SHE!
 - We agreed not to tell anyone where this info came from, and not to involve the apprentice.
 - Mezro is a point of interest, and he didn't know about [[Ozymandius]]'s expedition to Mezro. Mezro is the largests
-- Points of interest: hanging gardens on river Olong, camp rightous, red dragon?
+- Points of interest: hanging gardens on river Olong, [[Camp Righteous]], red dragon?
 	- Could be more

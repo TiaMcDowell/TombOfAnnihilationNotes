@@ -1,5 +1,5 @@
 *"Professor Locke Hancock"*
-## 3rd Level Storm Sorcerer
+## 4th Level Storm Sorcerer & 1st Level Fighter
 An older man, Professor Hancock claims to be both an archeologist and a pirate. He's told [[Yosei]] that he's from Sharn in Eberron, but wound up in space after delving too deep on an archeology expedition.
 
 After drifting with some asteroids, he was picked up by a Giff pirate crew where he met the love of his life Betsy (his big hippo GF).
