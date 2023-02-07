@@ -1,4 +1,4 @@
-## 5th Level Warlock
+## 5th Level Warlock of The Undead
 ![[Morgan.png]]
 Native of Chult. Views Chult as a place full of danger and death, but "excells at making you not die." In fact, she is an undead!
 
