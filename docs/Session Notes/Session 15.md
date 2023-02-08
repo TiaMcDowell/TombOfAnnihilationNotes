@@ -6,4 +6,4 @@ While boating to the [[Heart of Ubtao]], the party was attacked by a group of pl
 
 During the evening, Locke and [[Rodvan]] chat about magic, bouncing lightning bolts off walls, and war tactics. Locke reveals he enlisted in a war once, but doesn't wish to do it again.
 
-Arriving at the [[Heart of Ubtao]], they meet [[Shadow Mantle]] who looks an awful lot like [[Valindra Cimber]]. [[Xandala Cimber]] acknoledges this and says "sssSister?". Alexander called it last session when [[Rodvan]] was shocked to see [[Xandala Cimber]].
+Arriving at the [[Heart of Ubtao]], they meet [[Shadowmantle (aka Valindra Cimber)]] who looks an awful lot like [[Shadowmantle (aka Valindra Cimber)]]. [[Xandala Cimber]] acknoledges this and says "sssSister?". Alexander called it last session when [[Rodvan]] was shocked to see [[Xandala Cimber]].

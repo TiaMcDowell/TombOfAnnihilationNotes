@@ -28,4 +28,4 @@ New Quests from Commander Niles Breakbone
 Interrogation of Red Wizards
 Master: [[Rodvan]]
 See notes in [[The Red Wizards of Thay]].
-In particular, we learned who [[Shadow Mantle]] is!
+In particular, we learned who [[Shadowmantle (aka Valindra Cimber)]] is!
