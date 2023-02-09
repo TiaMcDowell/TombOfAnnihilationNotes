@@ -6,6 +6,6 @@ His apprentice Ellias took first watch while Rodvan came inside to sleep. Before
 
 [[Locke Hancock]] and [[Xandala Cimber]] chatted with Rodvan, while the rest of the party schemed to kill [[The Red Wizards of Thay]] and steal the golem.
 
-The party decides to head out to the [[Heart of Ubtao]] to make a deal with [[Shadow Mantle]].
+The party decides to head out to the [[Heart of Ubtao]] to make a deal with [[Shadowmantle (aka Valindra Cimber)]].
 
 We level up to 5th level and get a long rest!
