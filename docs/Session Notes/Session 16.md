@@ -2,7 +2,7 @@ The party enters the inner sanctum of the [[Heart of Ubtao]]. It's protected by 
 
 [[Shadowmantle (aka Valindra Cimber)]] wants the oracle to be asked "What is the location of the [[Soul Mongerer]]".
 
-She views [[Rodvan]] and [[Ellias]] as incompetant, and she wants the party to work for her. He insulted Shadowmantle with a racist remark, and then she used power word pain to torture him. [[Locke Hancock]] tried to talk her down and intervene, but Brysh pulled him away.
+She views [[Rodvan]] and [[Ellias]] as incompetant, and she wants the party to work for her. Ellias insulted Shadowmantle with a racist remark, and then she used power word pain to torture him. [[Locke Hancock]] tried to talk her down and intervene, but Brysh pulled him away.
 
 "His organs are going off with power word pain. What if he's an organ doner?!?" - Sean
 
