@@ -2,7 +2,7 @@ In the morning, everyone was shocked to see [[Brysh]] roughly two feet taller.
 
 [[Locke Hancock]] compared Brysh's transformation to that of a bananafly.
 
-While boating to the [[Heart of Ubtao]], the party was attacked by a group of plesiosaurus'. Brysh and [[Ellias]] got pulled under water, and Ellias nearly died before [[Locke Hancock]] saved him.
+While boating to the [[Heart of Ubtao]], the party was attacked by a group of plesiosaurus'. Brysh and [[Ellias]] got pulled under water, and they nearly died before [[Locke Hancock]] and Xandela saved them.
 
 During the evening, Locke and [[Rodvan]] chat about magic, bouncing lightning bolts off walls, and war tactics. Locke reveals he enlisted in a war once, but doesn't wish to do it again.
 
