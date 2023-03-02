@@ -26,7 +26,9 @@ Locke rejects her offer. He will not send her information, use the teleportation
 
 Locke tries to cheer Xandela up when he notices she's mesmerized by the portrait. "Mistakes are just learning opportunities!" She mentions they might want to stay the night, but Locke isn't eager.
 
-The party decides to take a long rest atop the heart of ubtao. [[Brysh]] attacks Locke and is very angry at him for antagonizing Valindra.
+The party decides to take a long rest atop the heart of ubtao. [[Brysh]] attacks Locke and is very angry at him for antagonizing Valindra. Later inspected her new magic item. It is cursed with the following effects:
+- It cannot be unattuned without remove curse
+- It gives disadvantage on wisdom saving throws against divination magic
 
 The party asked Xandela about her family and their history. Apparently Valindra was drafted in a war against Netheril, but that's strange. That war was during the 1480s when an Netherese enclave exited from the shadowfell. It culimnated in a seige of the capital, and ended in 1489. It's now 1495.
 
