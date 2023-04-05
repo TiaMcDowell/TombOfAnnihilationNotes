@@ -30,7 +30,7 @@ The party decides to take a long rest atop the heart of ubtao. [[Brysh]] attacks
 - It cannot be unattuned without remove curse
 - It gives disadvantage on wisdom saving throws against divination magic
 
-The party asked Xandela about her family and their history. Apparently Valindra was drafted in a war against Netheril, but that's strange. That war was during the 1480s when an Netherese enclave exited from the shadowfell. It culimnated in a seige of the capital, and ended in 1489. It's now 1495.
+The party asked Xandela about her family and their history. Apparently Valindra was drafted in a war against Netheril. That war was during the 1480s when an Netherese enclave exited from the shadowfell. It culimnated in a seige of the capital, and ended in 1489. It's now 1495.
 
 [[Alisandra Cimber]] is an Abara: an ancient protector of the city of [[The Lost City of Mezero]]. She dissapeared with the city when the last bit dissapeared. When the last bit of Mezero was destroyed, she was thought dead along with it. It broke [[Artus Cimber]] and caused him to go to a dark place.
 
