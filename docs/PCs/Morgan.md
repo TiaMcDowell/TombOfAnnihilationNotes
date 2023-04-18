@@ -9,6 +9,8 @@ Celestial-ish in nature
 She/Her
 Pact of the Chain Warlock
 
+Over a hundred years old!
+
 ## Goal
 - Fix the death curse
 

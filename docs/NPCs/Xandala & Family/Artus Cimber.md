@@ -1,4 +1,4 @@
-[[Xandala Cimber]]'s Father, an archialogist that is missing. Is protected from divination due to a magic ring (possible the same [[ring of winter]] he possesses). He uses other various magic items to cast spells.
+[[Xandala Cimber]]'s Father, an archialogist that is missing. Is protected from divination due to a magic ring (possible the same [[ring of winter]] he possesses). He uses other various magic items to cast spells. His ring of winter prevents aging. He looks to be about 30-40.
 
 A member of the harpers!
 
