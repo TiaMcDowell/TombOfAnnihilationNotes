@@ -1,9 +1,7 @@
 name: 'Check Spelling'
 
 on:
-  push:
-    paths:
-      - '**.md'
+  pull_request
 
 jobs:
   spellcheck:
