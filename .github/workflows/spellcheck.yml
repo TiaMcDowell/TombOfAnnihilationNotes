@@ -1,0 +1,15 @@
+name: 'Check Spelling'
+
+on:
+  push:
+    paths:
+      - '**.md'
+
+jobs:
+  spellcheck:
+    steps:
+      - name: cspell-action
+        uses: streetsidesoftware/cspell-action@v2.26.1
+        with:
+          files:
+            - '**.md'
