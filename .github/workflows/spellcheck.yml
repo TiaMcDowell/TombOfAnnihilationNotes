@@ -10,5 +10,4 @@ jobs:
       - uses: streetsidesoftware/cspell-action@v2.26.1
         name: cspell-action
         with:
-          files:
-            - '**.md'
+          files: '**.md'
