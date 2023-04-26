@@ -1,2 +1,1 @@
-in [[The Lost City of Mezero]], [[Ubtao]] is the god of Chult. Contains a locked vault which used to store the [[Ring of Winter]].
-
+in [[The Lost City of Mezero]], [[Ubtao]] is the god of Chult. Contains a locked vault which used to store the [[Ring of Winter]]. The [[Cult of the Frost]] invaded Mezro to try and aquire it, but [[Artus Cimber]] helped defend it.

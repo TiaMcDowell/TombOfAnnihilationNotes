@@ -13,5 +13,7 @@ He's addicted to blueberry turnovers from Silverymoon.
 
 Frequently trains [[Locke Hancock]] in battle maneuvers.
 
+Despite his frost-abilities, he doesn't know anything of the [[Cult of the Frost]].
+
 ## Goal
 - Find [[Artus Cimber]] on behalf of [[The Harpers]].
