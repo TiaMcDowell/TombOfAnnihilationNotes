@@ -1,0 +1,13 @@
+name: 'Check Spelling'
+
+on:
+  pull_request
+
+jobs:
+  spellcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: streetsidesoftware/cspell-action@v2.26.1
+        name: cspell-action
+        with:
+          files: '**.md'
