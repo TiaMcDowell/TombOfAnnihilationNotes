@@ -6,7 +6,7 @@ Eberron was a pretty shitty setting anyways.
 
 [[Shadowmantle (aka Valindra Cimber)]] sends a message to [[Ash]] looking for an update. She tells her that they're about 4 hours away.
 
-Since the party is so close, [[Brysh]] doesn't want to use a 3rd level spell slot on the mech. The party debates the spell slot effeciency of different people powering the [[Clockwork Golem]]. Ultimatly it's decided that Brysh will just use her 3rd level slot for it.
+Since the party is so close, [[Brysh]] doesn't want to use a 3rd level spell slot on the mech. The party debates the spell slot efficiency of different people powering the [[Clockwork Golem]]. Ultimately it's decided that Brysh will just use her 3rd level slot for it.
 
 As part of the first puzzle of [[Orolunga]], Locke jumps 16ft, which is slightly more than Ash could.
 
@@ -17,6 +17,6 @@ As part of the first puzzle of [[Orolunga]], Locke jumps 16ft, which is slightly
 > [[Artus Cimber]] has been captured by a red dragon: 100 miles south, 25 miles west
 
 "Where is the real lost city of Mezro"
-> The real Mezro has been plane shifted and ensnared in the mists of Ravenloft. It is being prepped to serve as a resevoir for the souls siphoned from the astral sea by the soulmonger.
+> The real Mezro has been plane shifted and ensnared in the mists of Ravenloft. It is being prepped to serve as a reservoir for the souls siphoned from the astral sea by the soul mongerer.
 
-It seems that the Professor's Conjecture was correct!
+It seems that the Professor's Conjecture was correct! The party levels up to 6th level.
