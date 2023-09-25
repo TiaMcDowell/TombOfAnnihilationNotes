@@ -5,7 +5,7 @@ Open in the tavern in [[Port Nyanzaru]], level 2
 - [[The Flaming Fist]] owns the land, need a travel permit
 	- rain catcher insect repellent, rations to buy
 - throat leaches, and bird that eats throat leaches
-- Brysh helps [[Volothamp Geddarm aka Volo]]drink until he has blacked out and takes 7g and 2 copper
+- Brysh helps [[Volothamp Geddarm aka Volo]] drink until he has blacked out and takes 7g and 2 copper
 - Cotton talks to the fish and [[Xandala Cimber]]s dad was at the tavern 6 days ago
 - talk to dwarfs, agree to fight [[Clear Wyrmheart Mine]]
 	- is with firenewts and kobolts

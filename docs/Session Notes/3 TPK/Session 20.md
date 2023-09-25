@@ -6,7 +6,7 @@ The party finds some giant snails soaking on the mech. [[Locke Hancock]] tries t
 
 "Reporting. Was able to pass trials. Got location of Soulmongerer. At Omu 90 km south 30 east, 100 below other questions follow." - [[Ash]] via Sending Stone
 
-"Return to Port Nyanzaru, Thundering Lizard. Re-evaluating distribution of forces and priorities. I have questions for you." - [[Shadowmantle (aka Valindra Cimber)]] to Ash via Sending Stone Reply.
+"Return to [[Port Nyanzaru]], Thundering Lizard. Re-evaluating distribution of forces and priorities. I have questions for you." - [[Shadowmantle (aka Valindra Cimber)]] to Ash via Sending Stone Reply.
 
 Locke pilots the slimy mech, and after a few hours they make camp.
 

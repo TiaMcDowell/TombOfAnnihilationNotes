@@ -6,7 +6,7 @@ After drifting with some asteroids, he was picked up by a Giff pirate crew where
 
 After about two decades, he was kidnapped by some Mind Flayers and experimented on. During a jump to the elemental plane of air, he escaped. Somehow he landed in Fearun with a new body as a Blue Dragonborn Storm Sorcerer.
 
-His dexterdy and memory were severely damaged, but now he can cast spells and perform magics. He played track and field in junior high, so he's pretty confident in his long jump abilities.
+His dexterity and memory were severely damaged, but now he can cast spells and perform magics. He played track and field in junior high, so he's pretty confident in his long jump abilities.
 
 He says he's lived 74 years "on this plane". Despite his old age, he knows next to nothing about the Sword Coast and its gods. He also occasionally forgets key details (like owning a spyglass).
 
