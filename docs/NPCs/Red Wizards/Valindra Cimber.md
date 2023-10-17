@@ -2,7 +2,7 @@
 
 She likes frogs, and turned out to be Shadowmantle!
 
-After her father left, she took care of the house on her own. Eventually got drafted into the Cormyrian war wizard army fighting Netheril. After the war, she joined the Red Wizard's of Thay.
+After her father left, she took care of the house on her own. Eventually got drafted into the Cormyrian war wizard army fighting Netheril. After the war, she joined the [[The Red Wizards of Thay]].
 
 She rose through the ranks of [[The Red Wizards of Thay]] quicker than just about anyone else. She's only been part of them for about three and a half years, but she's nearly at the top of their ranks.
 

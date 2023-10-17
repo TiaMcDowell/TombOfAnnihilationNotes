@@ -1,4 +1,4 @@
-[[Ash]] wants to stop the power word pain on [[Ellias]], so she went to petition [[Shadowmantle (aka Valindra Cimber)]].
+[[Ash]] wants to stop the power word pain on [[Ellias]], so she went to petition [[Valindra Cimber]].
 
 ## Visions of a Snake Man
 [[Morgan]] had a weird purple nose bleed. Her vision got blurrier and blurrier, so [[Sylvos]] snapped at her to get her attention. Morgan found herself in a marbel floor room with a grandfather clock inside. There's double doors with a gilded gold frame, and an orante writing desk, and large windows viewing the Jungle from above. Gazing outside, the room seems to be moving through the air!

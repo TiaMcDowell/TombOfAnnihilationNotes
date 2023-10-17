@@ -1,7 +1,7 @@
 ## Known Members
 - Researcher Rodvan
 	- Currently captured at Camp Vengance
-- [[Shadowmantle (aka Valindra Cimber)]]
+- [[Valindra Cimber]]
 - [[Rodvan]]
 - Brian (Dead)
 
