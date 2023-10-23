@@ -6,7 +6,7 @@ Party takes a short rest in [[Camp Righteous]]
 	- The red wizard dead and covered in honey
 		- It seems [[Goblins]] used the honey to attract insects which ate him alive.
 		- He was a member of [[The Red Wizards of Thay]].
-	- A wand that was used to write "Save me [[Shadowmantle (aka Valindra Cimber)]]"
+	- A wand that was used to write "Save me [[Valindra Cimber]]"
 	- A bronze statue([[Clockwork Golem]])
 		- The [[Clockwork Golem]] can be controlled by someone on the inside.
 		- It contains various CRT screens, buttons, nobs, and other electronic gismos.

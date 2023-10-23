@@ -12,4 +12,8 @@ That evening, [[Brysh]] checks the sword for curses and [[Locke Hancock]] identi
 - The sword is likely not cursed
 - The cloak is a cloak of protection!
 
+[[Xandala Cimber]] asked [[Brysh]] for help with her picture frame.
+
 The following day, we return to [[Port Nyanzaru]]. We paddle along the coast and see the cityscape on the horizon.
+
+In the city, we bought bagels.

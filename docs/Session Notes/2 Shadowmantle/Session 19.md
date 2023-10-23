@@ -4,7 +4,7 @@ Rodvan actually didn't like him and was just pumping him for information.
 He had some trauma in his backstory, but no one cares.
 Eberron was a pretty shitty setting anyways.
 
-[[Shadowmantle (aka Valindra Cimber)]] sends a message to [[Ash]] looking for an update. She tells her that they're about 4 hours away.
+[[Valindra Cimber]] sends a message to [[Ash]] looking for an update. She tells her that they're about 4 hours away.
 
 Since the party is so close, [[Brysh]] doesn't want to use a 3rd level spell slot on the mech. The party debates the spell slot efficiency of different people powering the [[Clockwork Golem]]. Ultimately it's decided that Brysh will just use her 3rd level slot for it.
 
