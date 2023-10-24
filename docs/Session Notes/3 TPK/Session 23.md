@@ -19,6 +19,8 @@ Locke and Brysh fall out of their saddles after being hit by some water canons b
 
 Getting back in their saddles, they see some streamers ahead. Locke casts Gust of Wind and blows it away, but pushes his Triceratops too far. It's exhausted.
 
+In the market, Locke hops on a new Triceratops to speed up. Morgan and Brysh try to drink some Tej, but only Morgan grabs it successfully. She comes in first place, Locke comes in second, and Brysh in third.
+
 # Morgan's Vision
 Right as she finishes the race, Morgan feels a trickle of blood and falls unconscious. She feels hot mist as she appears to be on a stone tile floor in a greenhouse.
 
