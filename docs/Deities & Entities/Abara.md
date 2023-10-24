@@ -13,3 +13,5 @@ Know Abara
 - [[Ras Nsi]]
 
 To become Abara, you take a trial in the [[Temple of Ubtao]]. If you pass, Ubtao offers you the position of Abara. Alisandra and [[Artus Cimber]] both took the trial, but Artus rejected it and took the [[Ring of Winter]] instead.
+
+Abara only die in combat or in great cataclysms. Then a new bara is selected by someone taking the trials in the [[Temple of Ubtao]] in [[The Lost City of Mezero]].
