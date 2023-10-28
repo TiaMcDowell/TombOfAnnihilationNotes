@@ -4,3 +4,5 @@ site
 desktop.ini
 Pipfile
 Pipfile.lock
+**/__pycache__/**
+**.cache
