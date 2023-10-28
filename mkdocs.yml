@@ -4,9 +4,6 @@ site_url: https://tiamcdowell.github.io/TombOfAnnihilationNotes/
 
 theme:
     name: 'material'
-    logo: assets/logo/favicons.png
-    favicon: assets/logo/favicons.png
-    custom_dir: overrides
     font:
         text: Karla
         code: Ubuntu Mono
@@ -36,51 +33,12 @@ theme:
         - navigation.tabs
         - navigation.tabs.sticky
         - navigation.expand
-# Extensions
-markdown_extensions:
-  - footnotes
-  - nl2br
-  - attr_list
-  - sane_lists
-  - meta
-  - smarty
-  - tables
-  - mdx_breakless_lists
-  - pymdownx.arithmatex:
-      generic: true
-  - pymdownx.details
-  - pymdownx.magiclink
-  - pymdownx.critic
-  - pymdownx.caret
-  - pymdownx.keys
-  - pymdownx.mark
-  - pymdownx.tilde
-  - pymdownx.highlight:
-      use_pygments: true
-      anchor_linenums: true
-  - pymdownx.tasklist:
-       custom_checkbox: true
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:pymdownx.emoji.to_svg
-  - admonition
-  - toc:
-      permalink: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.superfences:
-      custom_fences:
-        - name: dataview
-          class: dataview
-          format: !!python/name:pymdownx.superfences.fence_div_format
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:mermaid2.fence_mermaid
 plugins:
   - search
   - ezlinks:
         wikilinks: true
-  - mermaid2
-  - awesome-pages
+  # - mermaid2
+  # - awesome-pages
   - tooltipster-links
   - embed_file
 extra_javascript:
