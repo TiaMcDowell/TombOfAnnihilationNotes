@@ -3,39 +3,40 @@ site_description: Tomb of Annihilation Notes
 site_url: https://tiamcdowell.github.io/TombOfAnnihilationNotes/
 
 theme:
-    name: 'material'
-    logo: assets/logo/favicons.png
-    favicon: assets/logo/favicons.png
-    custom_dir: overrides
-    font:
-        text: Karla
-        code: Ubuntu Mono
-    language: en
-    palette:
+  name: 'material'
+  custom_dir: overrides
+  font:
+      text: Ubuntu
+      code: Ubuntu Mono
+  language: en
 
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: teal
-      accent: light blue
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-
-    # Dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: blue
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
-    features:
-        - navigation.indexes
-        - navigation.top
-        - navigation.tabs
-        - navigation.tabs.sticky
-        - navigation.expand
+  palette:
+  # Light mode
+  - media: "(prefers-color-scheme: light)"
+    scheme: default
+    primary: teal
+    accent: light blue
+    toggle:
+      icon: material/toggle-switch-off-outline
+      name: Switch to dark mode
+  # Dark mode
+  - media: "(prefers-color-scheme: dark)"
+    scheme: slate
+    primary: blue
+    accent: indigo
+    toggle:
+      icon: material/toggle-switch
+      name: Switch to light mode
+  
+  features:
+    - navigation.indexes
+    - navigation.top
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+        
 # Extensions
 markdown_extensions:
   - footnotes
@@ -46,6 +47,7 @@ markdown_extensions:
   - smarty
   - tables
   - mdx_breakless_lists
+  - def_list
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.details
@@ -61,7 +63,8 @@ markdown_extensions:
   - pymdownx.tasklist:
        custom_checkbox: true
   - pymdownx.emoji:
-      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - admonition
   - toc:
       permalink: true
@@ -69,31 +72,66 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences:
       custom_fences:
-        - name: dataview
-          class: dataview
-          format: !!python/name:pymdownx.superfences.fence_div_format
         - name: mermaid
           class: mermaid
-          format: !!python/name:mermaid2.fence_mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 plugins:
   - search
+  - meta-descriptions
+  - git-revision-date-localized:
+      type: date
+      fallback_to_build_date: true
+      locale: en
+      custom_format: "%A %d %B %Y"
+      enable_creation_date: true
   - ezlinks:
         wikilinks: true
-  - mermaid2
   - awesome-pages
-  - tooltipster-links
-  - embed_file
+  - embed_file:
+      callouts: true
+      custom-attributes: 'assets/css/custom_attributes.css'
+  - custom-attributes:
+      file: 'assets/css/custom_attributes.css'
+  # - tags:
+  #     tags_file: tags.md
+  # - encryptcontent:
+  #     title_prefix: '🔐'
+  #     summary: 'Private page'
+  #     placeholder: 'Password'
+  #     decryption_failure_message: 'Invalid password'
+  #     encryption_info_message: "You don't have access to this page."
+  #     search_index: 'encrypted'
+  #     password_button: True
+  #     password_button_text: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" height="1em" width="1em"><!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M416 32h-64c-17.67 0-32 14.33-32 32s14.33 32 32 32h64c17.67 0 32 14.33 32 32v256c0 17.67-14.33 32-32 32h-64c-17.67 0-32 14.33-32 32s14.33 32 32 32h64c53.02 0 96-42.98 96-96V128C512 74.98 469 32 416 32zM342.6 233.4l-128-128c-12.51-12.51-32.76-12.49-45.25 0c-12.5 12.5-12.5 32.75 0 45.25L242.8 224H32C14.31 224 0 238.3 0 256s14.31 32 32 32h210.8l-73.38 73.38c-12.5 12.5-12.5 32.75 0 45.25s32.75 12.5 45.25 0l128-128C355.1 266.1 355.1 245.9 342.6 233.4z"/></svg>'
+  - callouts
+  - glightbox
+hooks:
+  - overrides/hooks/on_page_markdown.py
+  - overrides/hooks/on_env.py
+  - overrides/hooks/on_files.py
 extra_javascript:
-  - assets/js/mathjax.js
-  - assets/js/utils.js
+  - https://cdn.jsdelivr.net/gh/ObsidianPublisher/assets@main/dist/javascript.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  - assets/js/tooltipster.bundle.js  
 extra_css:
-    - assets/css/img-grids-floats.css
-    - assets/css/utils.css
-    - assets/css/custom_attributes.css
-    - assets/css/tooltipster.bundle.min.css
     - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
+    - https://cdn.jsdelivr.net/gh/ObsidianPublisher/assets@main/dist/styles.css
+    - assets/css/admonition.css
+    - assets/css/custom_attributes.css
+    - assets/css/customization.css
 extra:
-  generator: false
+  comments: false #disable comments globally
+  generate_graph: false #generate the graph of the site
+  attachments: 'assets/img' #path to the folder where the attachments are stored
+  no-auto-h1: false #disable the automatic generation of h1 if no h1 is found
+  # blog_list:
+  #   pagination: true #enable pagination
+  #   pagination_message: true #display the message "Showing x posts out of y"
+  #   pagination_translation: 'posts in' #message to display before the number of posts ; Add your own translation!
+  #   no_page_found: "No pages found!" #message to display when no pages are found ; Add your own translation!
+  hooks:
+    strip_comments: false
+    fix_heading: true
+  social:
+  - icon: fontawesome/brands/github
+    link: https://github.com/TiaMcDowell/TombOfAnnihilationNotes

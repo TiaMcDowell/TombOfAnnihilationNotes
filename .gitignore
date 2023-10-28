@@ -1,2 +1,8 @@
-.obsidian
 .obsidian/*
+site
+.vscode/settings.json
+desktop.ini
+Pipfile
+Pipfile.lock
+**/__pycache__/**
+**.cache
