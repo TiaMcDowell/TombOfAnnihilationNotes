@@ -6,24 +6,22 @@ theme:
   name: 'material'
   custom_dir: overrides
   font:
-      text: Ubuntu
-      code: Ubuntu Mono
+      text: Roboto
+      code: Roboto Mono
   language: en
 
   palette:
   # Light mode
   - media: "(prefers-color-scheme: light)"
     scheme: default
-    primary: teal
-    accent: light blue
+    primary: green
     toggle:
       icon: material/toggle-switch-off-outline
       name: Switch to dark mode
   # Dark mode
   - media: "(prefers-color-scheme: dark)"
     scheme: slate
-    primary: blue
-    accent: indigo
+    primary: black
     toggle:
       icon: material/toggle-switch
       name: Switch to light mode
