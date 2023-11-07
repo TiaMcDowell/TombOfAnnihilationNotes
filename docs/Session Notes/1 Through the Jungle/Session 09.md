@@ -3,7 +3,7 @@ Learned about the "shivering sickness" caused by the insects of Chult.
 
 [[Ash]] deducted the ingredients of the insect repellent
 
-[[Ash]] and [[Yosei]] hear a broken branch during their watch. They see a small creature hiding in a tree. It turns out to be the first of a pack of velociraptors that attack the party. 
+[[Ash]] and [[Yosei]] hear a broken branch during their watch. They see a small creature hiding in a tree. It turns out to be the first of a pack of velociraptors that attack the party.
 
 [[Locke Hancock]] had a dimentia moment and ran from battle.
 
@@ -19,8 +19,8 @@ We find a stone baboon head on the Maze wall with a blue quartz in it, it detect
 
 Upon travelling the maze further, we find another baboon head with a clear quartz in it, and another pedestal with a T-Rex image engraved in it. We take this on as well. The gem is mundane.
 
-We find a third green orb, this one is arcane. There does not seem to be a pedestal for the green gem. The beholder reappeared after pulling this gem. 
+We find a third green orb, this one is arcane. There does not seem to be a pedestal for the green gem. The beholder reappeared after pulling this gem.
 
-# Next session
+## Next Session
 - Continue exploring the maze
 - Fight the undead beholder

@@ -5,7 +5,6 @@
 - [[Rodvan]]
 - Brian (Dead)
 
-
 ## Interrogation of Researcher [[Rodvan]]
 - He's an evoker
 - He brought his apprentice with him, but he's not that effective yet.

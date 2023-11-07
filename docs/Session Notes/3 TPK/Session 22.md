@@ -4,10 +4,11 @@ The party buys and sells a bunch in the market.
 It looks like someone broke into the [[Temple of Savras]]! Two strangers roughed up the priest [[Grandfather Zitembe]]. It seems the thugs were [[Zhentarim]] and were looking for [[Artus Cimber]].
 
 After speaking with [[Grandfather Zitembe]], we visit [[Prince Wakanga O'Tamu]].
+
 > "You can bring \[a mech\] in here. It'll destroy the carpet!"
 > "Then move the carpet!" - [[Morgan]]
 
-[[Prince Wakanga O'Tamu]] is very excited about the mech. [[Brysh]] shows off how it's powered by spells. [[Locke Hancock]] mentions he's from space, and Wakanga doesn't believe him. He thinks Locke is a bard...
+[[Prince Wakanga O'Tamu]] is very excited about the mech. [[Brysh]] shows off how it's powered by spells. [[Locke Hancock]] mentions he's from space, and Wakanga doesn't believe him. He thinks Locke is a bard…
 
 [[Prince Wakanga O'Tamu]] paid 750gp for his ship, and he would pay 100gp for the veil.
 
@@ -22,9 +23,9 @@ During a short rest, [[Brysh]] examines [[Xandala Cimber]]'s photo. Strangely it
 ## Lore Dump
 Green lights dance in our vision. We all have a strange out of body experience. From the perspective of [[Valindra Cimber]], we see [[Xandala Cimber]] cause a small explosion outside as Xandala falls in the mud. Valindra sees her as the family favorite, and resents her.
 
-Late at night, Valindra climbs back in her window, but drops a bag full of stolen magic books from the restricted section. Her parents are shouting.
+Late at night, Valindra climbs back in her window, but drops a bag full of stolen magic books from the restricted section. Her parents are shouting. The following morning she sees her dad crying and [[Alisandra Cimber]] has returned to Mezro.
 
-Next day she wakes up around 2pm. The house is strangely quiet. [[Xandala Cimber]] is standing right outside her bedroom. Something is wrong with [[Artus Cimber]]. [[Alisandra Cimber]] had to return to Mezro. Valindra isolates herself and falls into her studying. Artus drinks heavily, and several days later the house is full of cold ice. Artus seems to have taken the [[Ring of Winter]] and transformed.
+A few weeks later, she wakes up around 2pm. The house is strangely quiet. [[Xandala Cimber]] is standing right outside her bedroom. Something is wrong with [[Artus Cimber]]. Valindra isolates herself and falls into her studying. Artus drinks heavily, and several days later the house is full of cold ice. Artus seems to have taken the [[Ring of Winter]] and transformed.
 
 Valindra is just stuck taking care of Xandala, and feels it was inevitable this happened to Artus and Alisandra. However no matter how much she hates Xandala, she won't leave her behind. The money will run out eventually, and Valindra knows it.
 

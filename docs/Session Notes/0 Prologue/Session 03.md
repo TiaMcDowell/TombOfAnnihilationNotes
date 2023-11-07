@@ -17,5 +17,5 @@ Party plans to do the later two on the way to [[Camp Vengeance]], and later on t
 
 Level up to level 3!
 
-### Next session
+## Next Session
 Start travelling south down the River Soshenstar

@@ -7,14 +7,15 @@ The room seems to be on the shell of a skeleton turtle. Morgan looks for landmar
 
 The lower half of his body in a flash transforms and he appears as a human in a suit and dress shirt. He sensed Morgan wished to discuss something, and wants to talk to Morgan about it.
 
->The party notes out of character that [[Locke Hancock]] has an anus.
+> The party notes out of character that [[Locke Hancock]] has an anus.
 
 His name is [[Ras Nsi]], and he is an exiled [[Abara]] from Mezro. Morgan informs him about the [[Soul Mongerer]] and that he's concerned about [[The Red Wizards of Thay]] searching for it. She believes the ex coven of [[Nanny Pu'pu]] created it.
 
 Ras Nsi recommends speaking to see the oracle, and there's an array of traps. You need to be as fast as possible, and there's an "implement" to ensure you stay moving. However [[The Death Curse]] is still her top priority, and it may have caused Ras Nsi to lose control of the undead.
 
 Morgan asks about [[Artus Cimber]], and Ras Nsi knows about him.
->"I have good history with Artus. We saved the city together."
+
+> "I have good history with Artus. We saved the city together."
 
 Artus may not like Ras Nsi, but he has no ill feelings towards him. The children of Bara tend to have intersting destinies and powers.
 
@@ -28,7 +29,8 @@ Ash talks to Valindra about healing Elias. She accepts, but he needs to resign f
 Elias passes out immediately after being helped.
 
 [[Locke Hancock]] tries to convince Elias to no longer be racist, but Ash casts Tiny Hut to chat more privately with Elias. Ash convinces Elias to play ball, and he agrees to resign.
->"It's degrading to other people, who may feel power word pained when you say it." - Ash
+
+> "It's degrading to other people, who may feel power word pained when you say it." - Ash
 
 [[Rodvan]] agrees to take Elias back to Thay, and Locke says his goodbyes.
 

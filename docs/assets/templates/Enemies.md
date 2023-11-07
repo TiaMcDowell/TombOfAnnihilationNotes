@@ -1,4 +1,4 @@
-# {{title}}
+## {{title}}
 **Resistances:**
 **Weaknesses:**
 **Encountered in:**

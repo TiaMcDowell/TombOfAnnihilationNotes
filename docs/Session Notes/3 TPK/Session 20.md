@@ -1,6 +1,6 @@
 The party finds some giant snails soaking on the mech. [[Locke Hancock]] tries to scare it away, but they try to fight the party instead. He nearly dies in the fight.
 
->"Locke you look like shit" - [[Xandala Cimber]]
+> "Locke you look like shit" - [[Xandala Cimber]]
 
 [[Brysh]] was blinded by her cursed [[Veil of Uluu Thalongh]] because she harmed the nature snails. She's very angry at Locke for angering the snails, and he's angry she doesn't take responsibility for her actions (in regards to the veil).
 

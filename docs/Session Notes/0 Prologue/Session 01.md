@@ -12,9 +12,9 @@
 - Party goes to the tavern in [[Port Nyanzaru]] and meet:
 	- 2 dwarves looking to take back thir mine frim a child red dragon
 	- A shady man stairing at us from level 2
-	- A bar keeper that may or may not know anything about [[Xandala Cimber]]'s  dad
+	- A bar keeper that may or may not know anything about [[Xandala Cimber]]'s dad
 
-### Next session
+## Next Session
 - Investigate the bar more
 - level up to level 2
-- Errands with [[Brysh]]'s  letter
+- Errands with [[Brysh]]'s letter

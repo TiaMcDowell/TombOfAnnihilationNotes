@@ -1,14 +1,11 @@
-# {{title}}
-**Name:**  {{title}}
+## {{title}}
+**Name:** {{title}}
 **Race:**
 **Class:**
 
-**Friendly?** 
+**Friendly?**
 - [ ] Yes
 - [ ] Maybe
 - [ ] No
 
 **Notes:**
-
-
-

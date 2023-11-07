@@ -15,7 +15,7 @@ Instead of asking about Betsy, the party will use that question to ask about the
 
 After a day of travel and a fight with a [[Kamadan]], [[Brysh]] takes out a "pet" from her urn. She reveals a shadow spirit! It's a gift from her "best friend".
 
-Brysh is cagy about who her best friend is, but [[Sylvos]] hears whispers from the urn... If the urn breaks, it would release all her "pets" in the urn.
+Brysh is cagy about who her best friend is, but [[Sylvos]] hears whispers from the urn… If the urn breaks, it would release all her "pets" in the urn.
 
 Before everyone goes to sleep, [[Xandala Cimber]] pulls the counsins [[Yosei]] and [[Sylvos]] aside to warn them of [[Ras Nsi]]. Apparently Ras Nsi is one of the original [[Abara]] and was exiled 2000-3000 years ago. Before Mezro there was a group of people called the Eshowe. They clashed with the people of Mezro, so Ras Nsi sent his undead army to wipe them out compleately. The Abara didn't condone this, so they exiled him. With no longer needing to fend off the Eshowe, the city of Mezro could develope and advance their technology much quicker. He still serves Mezro, but he's fanatical in his devotion to Mezro. Ras Nsi cannot enter the city, but fought the [[Cult of the Frost]] from afar.
 

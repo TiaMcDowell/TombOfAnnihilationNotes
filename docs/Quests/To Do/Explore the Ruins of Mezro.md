@@ -1,2 +1,2 @@
 #toDo
-The ruins of [[The Lost City of Mezero]] have been a frequent haunt for treasure hunters for the better part of the last decade. Rumour has it [[The Lost City of Mezero]] was very technologically advanced, and pretty sophisticated in the arcane arts to boot. Such a blend of magic and science is bound to create have some interesting relics to be found...
+The ruins of [[The Lost City of Mezero]] have been a frequent haunt for treasure hunters for the better part of the last decade. Rumour has it [[The Lost City of Mezero]] was very technologically advanced, and pretty sophisticated in the arcane arts to boot. Such a blend of magic and science is bound to create have some interesting relics to be found…

@@ -18,7 +18,7 @@ Eventually, the party escaped, but at heavy cost. Nearly everyone was hurt, load
 
 [[Locke Hancock]] gave the veil to [[Brysh]] to identify
 
-# Next Session
+## Next Session
 - Learn more about veil (maybe follow a lead from there)
 - Make way to [[Camp Vengeance]]
-- (maybe) Look for clockwork golem 
+- (maybe) Look for clockwork golem

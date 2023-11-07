@@ -1,6 +1,7 @@
 *See [[Seek the Wisdom of the Oracle]]*
 
 Outside the entrance, there are human like hands with an inscription.
+
 > Power in the hand is knowledge in the head
 
 Based on [[Locke Hancock]]'s estimate, the monument is at least 3000 years old, but the gates and braziers are only a few hundred years old.
