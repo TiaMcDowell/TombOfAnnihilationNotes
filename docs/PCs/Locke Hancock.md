@@ -1,3 +1,8 @@
+---
+aliases:
+  - Locke
+  - The Professor
+---
 *"Professor Locke Hancock"*
 ## 4th Level Storm Sorcerer & 1st Level Fighter
 An older man, Professor Hancock claims to be both an archeologist and a pirate. He's told [[Yosei]] that he's from Sharn in Eberron, but wound up in space after delving too deep on an archeology expedition.
