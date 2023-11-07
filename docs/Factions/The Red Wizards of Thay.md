@@ -1,3 +1,7 @@
+---
+aliases:
+  - Red Wizards
+---
 ## Known Members
 - Researcher Rodvan
 	- Currently captured at Camp Vengance
