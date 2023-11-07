@@ -4,7 +4,7 @@
 
 The Captain wanted to let the Red Wizards go, and [[Locke Hancock]] took credit for negotiating that. He hopes this helps their reputation with both [[The Red Wizards of Thay]] and [[The Flaming Fist]].
 
-While in the canoes, the party debated the ethics of killing pirahnas following the boat. [[Morgan]] argues in favor of the fish, whereas everyone else disagrees. This led to [[Locke Hancock]] discussing the benefits of colonialism...
+While in the canoes, the party debated the ethics of killing pirahnas following the boat. [[Morgan]] argues in favor of the fish, whereas everyone else disagrees. This led to [[Locke Hancock]] discussing the benefits of colonialism…
 
 We fought some Strges who stuck their evil toungs down our throats.
 

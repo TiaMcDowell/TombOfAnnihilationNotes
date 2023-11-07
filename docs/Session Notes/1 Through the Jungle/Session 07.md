@@ -8,7 +8,6 @@ On the river, we took a four hour detour to avoid some monsterous birds with par
 
 After fighting some crocodiles, the party arrives in [[Camp Vengeance]].
 
-
 New Quests from Commander Niles Breakbone
 - Two red wizards were captured. They have a floating base somewhere on the east side of the Aldani Basin.
 	- Master and an apprentice

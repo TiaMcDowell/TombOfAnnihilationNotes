@@ -11,12 +11,15 @@ Since the party is so close, [[Brysh]] doesn't want to use a 3rd level spell slo
 As part of the first puzzle of [[Orolunga]], Locke jumps 16ft, which is slightly more than Ash could.
 
 "What is the location of the [[Soul Mongerer]]?"
+
 > The [[Soul Mongerer]] lays entombed beneath the forbidden city of [[Omu]]. 90 miles south, 30 miles east, 100ft beneath the surface.
 
 "Where is Artus Cimber now?"
+
 > [[Artus Cimber]] has been captured by a red dragon: 100 miles south, 25 miles west
 
 "Where is the real lost city of Mezro"
+
 > The real Mezro has been plane shifted and ensnared in the mists of Ravenloft. It is being prepped to serve as a reservoir for the souls siphoned from the astral sea by the [[Soul Mongerer]].
 
 It seems that the Professor's Conjecture was correct! The party levels up to 6th level.

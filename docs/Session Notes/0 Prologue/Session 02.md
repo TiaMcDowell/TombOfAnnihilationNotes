@@ -15,12 +15,12 @@ Open in the tavern in [[Port Nyanzaru]], level 2
 - in the market [[Xandala Cimber]]s staff abjeration and evokation and BIG conjouation
 - went to the killing race location, decided that saving [[Ortimay Swift and Dark]] is too riskey
 - [[The Death Curse]] - rivivify and raise dead are inconsistant, is a huge hit to diamond market, the colimsuim, and dino riders
-- [[Zhentarim]] - bad assesonation group 
+- [[Zhentarim]] - bad assesonation group
 	- [[Locke Hancock]] convinced the barkeep that we are part of the group
 - found a priest [[Grandfather Zitembe]], tried to divine where [[Artus Cimber]] is, he was shielded from divination
 	- [[Locke Hancock]] shared that he knew [[Artus Cimber]], now [[Grandfather Zitembe]] doesn't like us
 - [[Prince Wakanga O'Tamu]] is at the exacution
 
-### Nest session
+## Nest Session
 - Meet [[Prince Wakanga O'Tamu]]
 - Go to [[The Lost City of Mezero]]
