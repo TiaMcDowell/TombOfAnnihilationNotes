@@ -29,7 +29,7 @@ The [[The Red Wizards of Thay|Red Wizards]] are in the tavern right now. There's
 ## Brysh and the Lich Bitch
 [[Valindra Cimber|Valindra]] asks how much credit is owed to [[Brysh]] for the great success. She says about a 5th. She then asks how many of the PCs are attuned to their magic items, and it's awkward to answer. [[Valindra Cimber|Valindra]] wants [[Brysh]] to come with her to get the [[Soul Mongerer]]. [[Valindra Cimber|Valindra]] offers "a carrot" (20 platinum), and asks that Brysh stays in her seat during what comes next.
 
-Then the abjurer comes to fetch everyone else. [[Ozymandius]], [[Rodvan]], [[Sylvos]], [[Locke Hancock|Locke]], and [[Morgan]] arrive.
+Then the abjurer [[Sylora]] comes to fetch everyone else. [[Ozymandius]], [[Rodvan]], [[Sylvos]], [[Locke Hancock|Locke]], and [[Morgan]] arrive.
 
 [[Valindra Cimber|Valindra]] interrogates [[Locke Hancock|Locke]], [[Sylvos]], and [[Morgan]] about their loyalties. [[Valindra Cimber|Valindra]] asks [[Brysh]] who she cares more about: [[Sylvos]] or [[Locke Hancock|The Professor]]. She immediately picks [[Locke Hancock|Locke]]. He is told to wait in the SE corner.
 

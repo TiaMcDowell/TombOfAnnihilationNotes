@@ -2,7 +2,7 @@
 - [[Brysh]] gives [[Xandala Cimber]] a loan of 11sp for adventure gear.
 - Met a young stegosaurus and Cotton talked to him and got him to leave and not tell his mom where we are.
 - We smelt some honey and dead things, which indicates goblin territory.
-- Some flying [[Aarakocra]] met us while canoing down river.
+- Some flying [[Aarakocra]] met us while canoeing down river.
 	- They hate clear-cutting by [[The Flaming Fist]].
 	- The think The Flaming Fist deserve their destruction by the jungle
 	- Apparently [[Camp Righteous]] is destroyed.
@@ -14,7 +14,7 @@
 		Man said, "I must cross this river, but I fear to enter the water alone, because it teems with your brethren."
 		Crocodile replied, "It's true, you would not be safe. But I will carry you across the river safely on my back, if you promise to return the favor." Man agreed, and Crocodile bore him safely across the water
 		When they reached the far bank, Man asked, "How can I repay you?" Crocodile replied, "I wish to see the realm of Humans, but I fear to go there alone, because it teems with your brethren. You must carry me on your back across your realm." Man had been tricked, but a promise is a promise, so he carried Crocodile safely on his back across the entire realm of humans, a journey that lasted many years. He also swore, in his anger, that never again would Men and Crocodiles be friends, and so it has remained to this day.
-- Suprise suprise, after the honey and smell of corpses, we fought [[Goblins]]. Loot includes:
+- Surprise surprise, after the honey and smell of corpses, we fought [[Goblins]]. Loot includes:
 	- 6 short bows 19 arrows
 	- 8 scimitar
 	- 11 sets of leather armor for a small creature
@@ -23,7 +23,7 @@
 	- masks
 - [[Hew Hackinstone]], [[Musharib]], and Cotton get a short bow and 6 arrows
 - [[Locke Hancock]] got a scimitar
-- 7 pbs of food total. Enough for whole party, didn't need to have rations
+- 7 pounds of food total. Enough for whole party, didn't need to have rations
 
 Afterwards we went a little further before camping for the night.
 
