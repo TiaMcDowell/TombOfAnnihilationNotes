@@ -25,6 +25,8 @@ We got a fuck ton of spell scrolls, and a handful of other magic items. [[Locke 
 
 > "I don't think I want any of these" - Taylor
 
+[[Sylvos]] also took the dossiers on each of us.
+
 [[Morgan]] channels nearly all her life force into the phylactery, and gives [[Valindra Cimber|Valindra]] 26 soul points back.
 ## The Morning After
 [[Locke Hancock|Locke]] almost forgot to grab [[Hew Hackinstone|Hew]] and [[Musharib]]!
@@ -37,6 +39,6 @@ We got a fuck ton of spell scrolls, and a handful of other magic items. [[Locke 
 
 [[Valindra Cimber|Valindra]] casts a Mind Blank on herself, and then proceeds to get sea sick (the astral flutters).
 
-We're accosted by Aremag for gold. [[Brysh]] throws him more and more gold. After 35gp, he's finally satisfied.
+We're accosted by [[Aremag]] for gold. [[Brysh]] throws him more and more gold. After 35gp, he's finally satisfied.
 
-[[Sylvos]] is the navigator, and mentions that one of the Mistcliff Mountains is moving. It's actually just a pirate ship coming in for an attack! As they run away, [[Locke Hancock|Locke]] assumes they're letting them leave, but [[Brysh]] turns the ship to follow them...
+[[Sylvos]] is the navigator, and mentions that one of the Mistcliff Mountains is moving. It's actually just a pirate ship coming in for an attack! As they run away, [[Locke Hancock|Locke]] assumes they're letting them leave, but [[Brysh]] turns the ship to follow them…

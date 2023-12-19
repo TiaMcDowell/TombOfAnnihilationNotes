@@ -1,5 +1,5 @@
 ---
-location: "[[Wyrnheart Mine]]"
+location: "[[Wyrmheart Mine]]"
 ---
 #inProgress
 
