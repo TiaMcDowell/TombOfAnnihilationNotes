@@ -4,6 +4,6 @@ A ring of power that he found in [[The Lost City of Mezero]]. It was protected i
 
 [[Xandala Cimber]] says it's something to keep quiet and it could get her in trouble. It could herald in a new ice age.
 
-The ring has a powerful thrawl and a will of its own. He started to lose control after his wife [[Alisandra Cimber]] "died."
+The ring has a powerful thrall and a will of its own. He started to lose control after his wife [[Alisandra Cimber]] "died."
 
-[[Artus Cimber]] used it to make snowcones.
+[[Artus Cimber]] used it to make snow cones.

@@ -4,6 +4,8 @@ A member of the harpers!
 
 Taught [[Yosei]] the frostfinger's spell.
 
+He has a dagger nicknamed *Bookmark*!
+
 ## Letter to Xandala and Valindra
 
 > Xandala, Valindra
