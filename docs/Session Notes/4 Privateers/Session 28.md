@@ -15,7 +15,7 @@ He invites [[Morgan]] to bring the party and meet him in person. He's also inter
 
 [[Artus Cimber|Artus]] was lent an artifact by [[Tamalka Village]] on the condition he returns [[The Lost City of Mezero]] to the material plane. He is friends with [[Ras Nsi]], and suggests we visit him. [[Morgan]] is accused of being the red wizard, and fails to deny it.
 
-[[Artus Cimber|Artus]] learns about [[Valindra Cimber|Valindra]]'s mind blank when it wears off, and tells him she's a litch. [[Artus Cimber|Artus]] laughs it off, but begins to question what he's seen.
+[[Artus Cimber|Artus]] learns about [[Valindra Cimber|Valindra]]'s mind blank when it wears off, and tells him she's a lich. [[Artus Cimber|Artus]] laughs it off, but begins to question what he's seen.
 
 > Artus: "Why does she feel so cold?"
 > Brysh: "Women"
@@ -34,20 +34,20 @@ There's stone gargoyles, bubbling lava, a circular citadel, and a river flooding
 
 There's disembodied corpses of several Yuan-ti. Their wounds seems to be a mix of magic and blades that cauterized the wounds.
 
-Small humanoid plants and fungus (Vegipigmis) are gathering around a tied up Grung. [[Brysh]] tries to communicate, but [[Locke Hancock|Locke]] doesn't think it's working. He presents himself as a storm god and utterly defeats the Vegipigmis. Afterwards he plays the flut, marks them with flour, and then leaves.
+Small humanoid plants and fungus (Vegipigmis) are gathering around a tied up Grung. [[Brysh]] tries to communicate, but [[Locke Hancock|Locke]] doesn't think it's working. He presents himself as a storm god and utterly defeats the Vegipigmis. Afterwards he plays the flute, marks them with flour, and then leaves.
 
 [[Valindra Cimber|Valindra]] uses the hag eye to speak to the Grung. Apparently lots of people are mean to the frogs, but there's two frog gods. [[Nangnang]] and [[Kubazan]] are trickster gods, and [[Nangnang]] is the pretty one. [[Imbok]] the Grung holds [[Valindra Cimber|Valindra]]'s hand as they walk back to the flooded area.
 
 [[Imbok]] says that a tenday ago a group of people arrived. They went to each shrine and killed many of the Grung.
 
-We see a statue depicting [[Kubazan]] who looks an awful lot like a Froghemoth. [[Morgan]] is scared. However a piece of parchment and a napsack appears out of a black spec.
+We see a statue depicting [[Kubazan]] who looks an awful lot like a Froghemoth. [[Morgan]] is scared. However a piece of parchment and a knapsack appears out of a black spec.
 
->PARTY NO. 4
->
->Welcome to Omu! I see you have found the shrines to the dead trickster gods. Good riddance to them! They are now long buried beneath the city, along with their worshippers. The Omuans were very good at one thing though: and that is their love to archanomechanical death traps. In years past, the Omuans would use these shrines to test the mettle of their priests, now I use them as a.... "qualifier round". Let's see how you hold up to these delightful trials. If you pass, you may have the honour of a gruesome death to one of my own designs.
->PS: I expect you came prepared, but have this care package on the house. Now you have no excuse for whining.
->
->- A
+> PARTY NO. 4
+> 
+> Welcome to Omu! I see you have found the shrines to the dead trickster gods. Good riddance to them! They are now long buried beneath the city, along with their worshippers. The Omuans were very good at one thing though: and that is their love to archanomechanical death traps. In years past, the Omuans would use these shrines to test the mettle of their priests, now I use them as a…. "qualifier round". Let's see how you hold up to these delightful trials. If you pass, you may have the honour of a gruesome death to one of my own designs.
+> PS: I expect you came prepared, but have this care package on the house. Now you have no excuse for whining.
+> 
+> - A
 
 The knapsack contains:
 - 9-foot pole
