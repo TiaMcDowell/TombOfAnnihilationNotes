@@ -43,3 +43,4 @@ graph TD
 [[Morgan]] is placed with a dreadful choice. "Take the prize and curse your friends, or fight my children to claim it". He choses to fight and calls every inside to fight su-monsters.
 
 We defeat the mind monkeys and get the puzzle cube of [[Wongo]].
+![[wongo_colour.webp]]
