@@ -1,4 +1,4 @@
-[[Brysh]] tells [[Orvex Ocrammas]] that [[Locke Hancock|Locke]] has memory issues. Then we head for the [[Kubazan]] shrine. This is where we got our mysterious gift from [[Unknown Guide|A]].
+[[Brysh]] tells [[Orvex Ocrammas]] that [[Locke Hancock|Locke]] has memory issues. Then we head for the [[Kubazan]] shrine. This is where we got our mysterious gift from [[Acererak|A]].
 
 We defeat a Froghemoth outside the shrine, and successfully snag a frog puzzle cube using a merchant's scale, two mage hands, and a translator.![[kubazan_colour.webp]]
 
