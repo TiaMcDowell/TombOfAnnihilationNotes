@@ -1,6 +1,6 @@
 site_name: Tomb of Annihilation Notes
 site_description: Tomb of Annihilation Notes
-site_url: https://tiamcdowell.github.io/TombOfAnnihilationNotes/
+site_url: https://aldman123.github.io/TombOfAnnihilationNotes/
 
 theme:
   name: 'material'
@@ -132,4 +132,4 @@ extra:
     fix_heading: true
   social:
   - icon: fontawesome/brands/github
-    link: https://github.com/TiaMcDowell/TombOfAnnihilationNotes
+    link: https://github.com/aldman123/TombOfAnnihilationNotes

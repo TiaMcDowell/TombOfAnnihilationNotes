@@ -20,6 +20,6 @@ As part of the first puzzle of [[Orolunga]], Locke jumps 16ft, which is slightly
 
 "Where is the real lost city of Mezro"
 
-> The real Mezro has been plane shifted and ensnared in the mists of Ravenloft. It is being prepped to serve as a reservoir for the souls siphoned from the astral sea by the [[Soul Mongerer]].
+> The real Mezro has been plane shifted and ensnared in the mists of [[Ravenloft]]. It is being prepped to serve as a reservoir for the souls siphoned from the astral sea by the [[Soul Mongerer]].
 
 It seems that the Professor's Conjecture was correct! The party levels up to 6th level.
