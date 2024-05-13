@@ -47,7 +47,7 @@ We see a statue depicting [[Kubazan]] who looks an awful lot like a Froghemoth. 
 > Welcome to Omu! I see you have found the shrines to the dead trickster gods. Good riddance to them! They are now long buried beneath the city, along with their worshippers. The Omuans were very good at one thing though: and that is their love to archanomechanical death traps. In years past, the Omuans would use these shrines to test the mettle of their priests, now I use them as a…. "qualifier round". Let's see how you hold up to these delightful trials. If you pass, you may have the honour of a gruesome death to one of my own designs.
 > PS: I expect you came prepared, but have this care package on the house. Now you have no excuse for whining.
 > 
-> - [[Unknown Guide|A]]
+> - [[Acererak|A]]
 
 The knapsack contains:
 - 9-foot pole
