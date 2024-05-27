@@ -1,5 +1,5 @@
 ## Prelude with [[Morgan]]
-He is summoned by [[Ras Nsi]] and visits a mysterious Yuan-ti sanctuary. Inside is [[Ras Nsi]] in seemingly his true form. A sickened and damaged snake body. He seems to be suffering from [[The Death Curse]].
+He is summoned by [[Ras Nsi]] and visits a mysterious [[Yuan-ti]] sanctuary. Inside is [[Ras Nsi]] in seemingly his true form. A sickened and damaged snake body. He seems to be suffering from [[The Death Curse]].
 ![[Ras Nsi.jpg]]
 
 [[Ras Nsi]] has mislead the [[Yuan-ti]] into believing he's a Yuan-ti god. He also presents [[Morgan]] a puzzle cube! However he mentions that our search for those cubes will be problematic. He's made a deal to protect the people of Mezro and himself. The [[Soul Mongerer]] is within the [[Tomb of the Dead Gods]] and the cubes are the key to getting it. He's made a pact with [[Acererak]] where [[Acererak]] would create an dimensional space to protect the people of [[The Lost City of Mezero|Mezero]] and keep them safe.
