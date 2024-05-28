@@ -1,0 +1,1 @@
+[[Valindra Cimber|Valindra]] instigates a fight with [[Ras Nsi]], and we battle. During the fight, [[Xandala Cimber|Xandala]] stun locks some snakes, [[Rodvan]] surrenders and joins the party, and [[Morgan]] kills [[Ras Nsi]].
